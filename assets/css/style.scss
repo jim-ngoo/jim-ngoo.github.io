@@ -3,11 +3,8 @@
 
 @import "{{ site.theme }}";
 
-header {
-    width: 270px;
-    float: left;
-    
-    -webkit-font-smoothing: subpixel-antialiased;
+body {
+    width: 1500px;
 }
 
 section
