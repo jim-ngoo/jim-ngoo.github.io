@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Hello World
 
-You can use the [editor on GitHub](https://github.com/jim-ngoo/jim-ngoo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Project Highlight
 ```markdown
-Syntax highlighted code block
+1. Reverse engineering in communication protocol of a display board controller
+- Sniff package using Wireshark
+- To hack the packet patterns of navigate mode and load bitmap mode with unknown bitmap format
 
-# Header 1
-## Header 2
-### Header 3
+2. Vehicle Tracking System
+- Track with video analytics/ RFID technology
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+3. DIY Robot
+- Robot components: bluno beetle, servo motors, and 3D printed robot body
+- Controller: ios device
+- Communication: BLE
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Standards studied
+```markdown
+1. The H.264 Advanced Video Coding (AVC) Standard
+2. ICAO9303 Standard (for Machine Readable Travel Documents) 
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jim-ngoo/jim-ngoo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+![Image](https://raw.githubusercontent.com/jim-ngoo/jim-ngoo.github.io/master/email.png)
