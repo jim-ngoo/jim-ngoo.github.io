@@ -1,5 +1,3 @@
-## Hello World! This is a simple profile of Jim.
-
 ### Brief background
 ``` markdown
 1. Bachelor of Science(Math) in the Chinese University of Hong Kong
